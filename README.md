@@ -1,13 +1,16 @@
-Members:
-CLAPIS
-DATILES
-GORRE
-LAGRADILLA
-NICOLAS
-PRADES
-SACRAMENTO
-VALEÑA
+Members
+===========
+- CLAPIS
+- DATILES
+- GORRE
+- LAGRADILLA
+- NICOLAS
+- PRADES
+- SACRAMENTO
+- VALEÑA
 
+Screenshots
+===========
 ![screenshot](Screenshots/Screenshot%20(307).png)
 ![screenshot](Screenshots/Screenshot%20(308).png)
 ![screenshot](Screenshots/Screenshot%20(309).png)
